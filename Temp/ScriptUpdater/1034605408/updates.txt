@@ -1,0 +1,4 @@
+Temp/ScriptUpdater/1034605408\664128006_SunShafts.cs => Assets/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/SunShafts.cs
+Temp/ScriptUpdater/1034605408\1826327603_BloomAndFlares.cs => Assets/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/BloomAndFlares.cs
+Temp/ScriptUpdater/1034605408\890014233_Bloom.cs => Assets/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/Bloom.cs
+Temp/ScriptUpdater/1034605408\687194150_DepthOfField.cs => Assets/NatureStarterKit2/Standard Assets/Effects/ImageEffects/Scripts/DepthOfField.cs
